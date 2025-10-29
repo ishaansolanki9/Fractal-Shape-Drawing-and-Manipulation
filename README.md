@@ -52,4 +52,4 @@ Testing:
     - java FractalShapeTest
   - Verifies geometry calculations and fractal correctness
 
-License: MIT License © 2025 Your Name
+License: MIT License © 2025 Ishaan Solanki
